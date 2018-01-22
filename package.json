@@ -1,5 +1,5 @@
 {
-  "name": "@owstack/bch-lib",
+  "name": "bch-lib",
   "version": "0.0.6",
   "description": "A Javascript library to build bitcoin cash and blockchain-based applications.",
   "main": "index.js",
