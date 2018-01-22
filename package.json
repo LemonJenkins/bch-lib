@@ -47,5 +47,8 @@
     "sinon": "^1.13.0"
   },
   "license": "MIT",
-  "homepage": "https://github.com/LemonJenkins/ows-common.git#readme"
+  "homepage": "https://github.com/LemonJenkins/ows-common.git#readme",
+  "bugs": {
+    "url": "https://github.com/LemonJenkins/bch-lib/issues"
+  }
 }
