@@ -27,13 +27,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/LemonJenkins/ows-common.git"
+    "url": "https://github.com/LemonJenkins/bch-lib.git"
   },
   "browser": {
     "request": "browser-request"
   },
   "dependencies": {
-    "ows-common": "git+https://github.com/LemonJenkins/ows-common.git"
+    "ows-common": "git+https://github.com/LemonJenkins/ows-common.git",
     "bn.js": "=2.0.4",
     "buffer-compare": "=1.0.0",
     "elliptic": "=3.0.3",
