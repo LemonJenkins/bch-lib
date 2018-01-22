@@ -46,5 +46,6 @@
     "gulp": "^3.8.10",
     "sinon": "^1.13.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/LemonJenkins/ows-common.git#readme"
 }
